@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hello-world-app/static/css/main.5f361e03.chunk.css",
+    "main.js": "/hello-world-app/static/js/main.aa12c631.chunk.js",
+    "main.js.map": "/hello-world-app/static/js/main.aa12c631.chunk.js.map",
+    "runtime-main.js": "/hello-world-app/static/js/runtime-main.a37e3e3a.js",
+    "runtime-main.js.map": "/hello-world-app/static/js/runtime-main.a37e3e3a.js.map",
+    "static/js/2.be7e122f.chunk.js": "/hello-world-app/static/js/2.be7e122f.chunk.js",
+    "static/js/2.be7e122f.chunk.js.map": "/hello-world-app/static/js/2.be7e122f.chunk.js.map",
+    "index.html": "/hello-world-app/index.html",
+    "precache-manifest.194571c89194026d13338828106aa924.js": "/hello-world-app/precache-manifest.194571c89194026d13338828106aa924.js",
+    "service-worker.js": "/hello-world-app/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/hello-world-app/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.be7e122f.chunk.js.LICENSE.txt": "/hello-world-app/static/js/2.be7e122f.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/hello-world-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a37e3e3a.js",
+    "static/js/2.be7e122f.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.aa12c631.chunk.js"
+  ]
+}
